@@ -17,7 +17,7 @@ Import required libraries and define image transforms.
 ### STEP 2: 
 
 
-Load training and testing datasets using ImageFolder.
+Load training and testing datasets using ImageFolder .
 ### STEP 3: 
 
 
